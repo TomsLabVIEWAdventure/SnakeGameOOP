@@ -21,7 +21,7 @@
 	<Item Name="Game Componants.ctl" Type="Class Private Data" URL="Game Componants.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Get Colour.vi" Type="VI" URL="../Get Colour.vi">
+	<Item Name="colour.get.vi" Type="VI" URL="../colour.get.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#N!!!!"!!%!!!!&amp;U!(!""$&lt;WVQ&lt;WZB&lt;H1A1W^M&lt;X6S!!!W1(!!(A!!'2&gt;(97VF)%.P&lt;8"P&lt;G&amp;O&gt;(-O&lt;(:D&lt;'&amp;T=Q!32W&amp;N:3"$&lt;WVQ&lt;WZB&lt;H2T)'FO!!"5!0!!$!!!!!!!!1!!!!!!!!!!!!!!!!!!!!!!!A)!!(A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!E!!!!!!"!!-!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -30,7 +30,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 	</Item>
-	<Item Name="Set Colour.vi" Type="VI" URL="../Set Colour.vi">
+	<Item Name="colour.set.vi" Type="VI" URL="../colour.set.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$D!!!!"1!%!!!!.E"Q!"Y!!"E82W&amp;N:3"$&lt;WVQ&lt;WZB&lt;H2T,GRW9WRB=X-!%U&gt;B&lt;75A1W^N='^O97ZU=S"P&gt;81!&amp;U!(!""$&lt;WVQ&lt;WZB&lt;H1A1W^M&lt;X6S!!!W1(!!(A!!'2&gt;(97VF)%.P&lt;8"P&lt;G&amp;O&gt;(-O&lt;(:D&lt;'&amp;T=Q!32W&amp;N:3"$&lt;WVQ&lt;WZB&lt;H2T)'FO!!"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!)!!Q)!!(A!!!!!!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1!!!!EA!!!!!"!!1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
